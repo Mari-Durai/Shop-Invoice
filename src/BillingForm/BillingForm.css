@@ -1,0 +1,49 @@
+
+.billing-form {
+    padding: 20px;
+  }
+  
+  .billing-form header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .billing-form header img {
+    height: 50px;
+  }
+  
+  .billing-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .billing-form label {
+    margin: 10px 0;
+  }
+  
+  .product-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .product-row label {
+    flex: 1;
+    margin: 0 10px;
+  }
+
+  .mr-3{
+    margin-right: 15px;
+  }
+   
+  .billing-heading{
+    font-size: 25px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+  }
+
+  .product-text{
+    font-size: 25px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+  }

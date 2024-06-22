@@ -1,0 +1,130 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 20px; 
+  margin-bottom: 20px; 
+}
+
+.invoice {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
+
+.invoice header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.invoice header img.invoice-logo {
+  max-height: 80px;
+  max-width: 150px;
+  height: auto;
+  width: auto;
+  margin-right: 15px;
+}
+
+.invoice header h1 {
+  font-size: 2rem;
+  margin-bottom: 0;
+  margin-right: 15px;
+}
+
+.invoice header .shop-details {
+  text-align: right;
+}
+
+.invoice header .shop-details table {
+  width: auto;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.invoice header .shop-details td {
+  padding: 0;
+  vertical-align: top;
+}
+
+.invoice header .shop-details td:first-child {
+  padding-right: 10px;
+}
+
+.invoice-content h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid #dee2e6;
+  padding: 8px;
+}
+
+.table thead th {
+  background-color: #f8f9fa;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.text-end h3 {
+  margin-top: 20px;
+}
+
+@media print {
+  .btn {
+    display: none;
+  }
+
+  .invoice {
+    box-shadow: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  header,
+  .invoice-content {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .table {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .shop-details .shop-address {
+    max-width: 200px; 
+    word-wrap: break-word;
+    white-space: pre-wrap;
+  }
+}
+
+
+
+
+
+
+

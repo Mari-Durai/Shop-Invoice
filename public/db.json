@@ -1,0 +1,255 @@
+{
+    "home_appliances": [
+      {
+        "product_name": "Air Conditioner",
+        "brands": [
+          {
+            "brand_name": "LG",
+            "models": [
+              {"model": "LG 1.5 Ton 5 Star Inverter Split AC", "price": 35000},
+              {"model": "LG 2 Ton 3 Star Split AC", "price": 45000},
+              {"model": "LG 1 Ton 3 Star Window AC", "price": 25000},
+              {"model": "LG 1.5 Ton 3 Star Portable AC", "price": 40000}
+            ]
+          },
+          {
+            "brand_name": "Samsung",
+            "models": [
+              {"model": "Samsung 1.5 Ton 3 Star Inverter Split AC", "price": 33000},
+              {"model": "Samsung 2 Ton 5 Star Split AC", "price": 50000},
+              {"model": "Samsung 1 Ton 4 Star Window AC", "price": 27000},
+              {"model": "Samsung 1.5 Ton 5 Star Portable AC", "price": 42000}
+            ]
+          },
+          {
+            "brand_name": "Daikin",
+            "models": [
+              {"model": "Daikin 1.5 Ton 5 Star Inverter Split AC", "price": 37000},
+              {"model": "Daikin 2 Ton 3 Star Split AC", "price": 48000},
+              {"model": "Daikin 1 Ton 4 Star Window AC", "price": 26000},
+              {"model": "Daikin 1.5 Ton 4 Star Portable AC", "price": 41000}
+            ]
+          },
+          {
+            "brand_name": "Voltas",
+            "models": [
+              {"model": "Voltas 1.5 Ton 5 Star Inverter Split AC", "price": 34000},
+              {"model": "Voltas 2 Ton 3 Star Split AC", "price": 47000},
+              {"model": "Voltas 1 Ton 3 Star Window AC", "price": 23000},
+              {"model": "Voltas 1.5 Ton 3 Star Portable AC", "price": 39000}
+            ]
+          },
+          {
+            "brand_name": "Blue Star",
+            "models": [
+              {"model": "Blue Star 1.5 Ton 5 Star Inverter Split AC", "price": 36000},
+              {"model": "Blue Star 2 Ton 4 Star Split AC", "price": 49000},
+              {"model": "Blue Star 1 Ton 3 Star Window AC", "price": 24000},
+              {"model": "Blue Star 1.5 Ton 4 Star Portable AC", "price": 43000}
+            ]
+          }
+        ]
+      },
+      {
+        "product_name": "Refrigerator",
+        "brands": [
+          {
+            "brand_name": "Whirlpool",
+            "models": [
+              {"model": "Whirlpool 190 L 3 Star Direct-Cool Single Door", "price": 12000},
+              {"model": "Whirlpool 265 L 3 Star Frost-Free Double Door", "price": 25000},
+              {"model": "Whirlpool 340 L 4 Star Frost-Free Triple Door", "price": 30000},
+              {"model": "Whirlpool 500 L 5 Star Frost-Free Side-by-Side", "price": 55000}
+            ]
+          },
+          {
+            "brand_name": "Samsung",
+            "models": [
+              {"model": "Samsung 192 L 2 Star Direct Cool Single Door", "price": 14000},
+              {"model": "Samsung 253 L 3 Star Frost-Free Double Door", "price": 27000},
+              {"model": "Samsung 324 L 4 Star Frost-Free Triple Door", "price": 32000},
+              {"model": "Samsung 600 L 5 Star Frost-Free Side-by-Side", "price": 60000}
+            ]
+          },
+          {
+            "brand_name": "LG",
+            "models": [
+              {"model": "LG 190 L 4 Star Direct Cool Single Door", "price": 13000},
+              {"model": "LG 260 L 3 Star Frost-Free Double Door", "price": 26000},
+              {"model": "LG 335 L 4 Star Frost-Free Triple Door", "price": 31000},
+              {"model": "LG 675 L 5 Star Frost-Free Side-by-Side", "price": 65000}
+            ]
+          },
+          {
+            "brand_name": "Haier",
+            "models": [
+              {"model": "Haier 195 L 4 Star Direct Cool Single Door", "price": 12500},
+              {"model": "Haier 258 L 3 Star Frost-Free Double Door", "price": 25500},
+              {"model": "Haier 320 L 4 Star Frost-Free Triple Door", "price": 30500},
+              {"model": "Haier 565 L 5 Star Frost-Free Side-by-Side", "price": 58000}
+            ]
+          },
+          {
+            "brand_name": "Godrej",
+            "models": [
+              {"model": "Godrej 185 L 3 Star Direct Cool Single Door", "price": 11000},
+              {"model": "Godrej 265 L 3 Star Frost-Free Double Door", "price": 24000},
+              {"model": "Godrej 343 L 4 Star Frost-Free Triple Door", "price": 29000},
+              {"model": "Godrej 500 L 4 Star Frost-Free Side-by-Side", "price": 53000}
+            ]
+          }
+        ]
+      },
+      {
+        "product_name": "Washing Machine",
+        "brands": [
+          {
+            "brand_name": "LG",
+            "models": [
+              {"model": "LG 6.5 kg 5 Star Inverter Fully-Automatic Front Load", "price": 30000},
+              {"model": "LG 8 kg 5 Star Inverter Fully-Automatic Top Load", "price": 35000},
+              {"model": "LG 7 kg 4 Star Semi-Automatic Top Load", "price": 18000},
+              {"model": "LG 10 kg 5 Star Fully-Automatic Front Load", "price": 45000}
+            ]
+          },
+          {
+            "brand_name": "Samsung",
+            "models": [
+              {"model": "Samsung 6 kg 5 Star Fully-Automatic Front Load", "price": 28000},
+              {"model": "Samsung 7 kg 5 Star Fully-Automatic Top Load", "price": 32000},
+              {"model": "Samsung 8 kg 4 Star Semi-Automatic Top Load", "price": 20000},
+              {"model": "Samsung 9 kg 5 Star Fully-Automatic Front Load", "price": 40000}
+            ]
+          },
+          {
+            "brand_name": "Whirlpool",
+            "models": [
+              {"model": "Whirlpool 6.5 kg 5 Star Fully-Automatic Top Load", "price": 26000},
+              {"model": "Whirlpool 8 kg 5 Star Fully-Automatic Front Load", "price": 34000},
+              {"model": "Whirlpool 7 kg 4 Star Semi-Automatic Top Load", "price": 17000},
+              {"model": "Whirlpool 9.5 kg 5 Star Fully-Automatic Front Load", "price": 42000}
+            ]
+          },
+          {
+            "brand_name": "Bosch",
+            "models": [
+              {"model": "Bosch 7 kg 5 Star Fully-Automatic Front Load", "price": 32000},
+              {"model": "Bosch 6.5 kg 5 Star Fully-Automatic Top Load", "price": 25000},
+              {"model": "Bosch 8 kg 4 Star Semi-Automatic Top Load", "price": 22000},
+              {"model": "Bosch 10 kg 5 Star Fully-Automatic Front Load", "price": 46000}
+            ]
+          },
+          {
+            "brand_name": "IFB",
+            "models": [
+              {"model": "IFB 6 kg 5 Star Fully-Automatic Front Load", "price": 29000},
+              {"model": "IFB 7.5 kg 5 Star Fully-Automatic Top Load", "price": 31000},
+              {"model": "IFB 8 kg 4 Star Semi-Automatic Top Load", "price": 19000},
+              {"model": "IFB 9 kg 5 Star Fully-Automatic Front Load", "price": 41000}
+            ]
+          }
+        ]
+      },
+      {
+        "product_name": "Microwave Oven",
+        "brands": [
+          {
+            "brand_name": "IFB",
+            "models": [
+              {"model": "IFB 20 L Convection Microwave Oven", "price": 10000},
+              {"model": "IFB 25 L Solo Microwave Oven", "price": 7000},
+              {"model": "IFB 30 L Grill Microwave Oven", "price": 12000},
+              {"model": "IFB 23 L Convection Microwave Oven", "price": 9500}
+            ]
+          },
+          {
+            "brand_name": "Samsung",
+            "models": [
+              {"model": "Samsung 28 L Convection Microwave Oven", "price": 12000},
+              {"model": "Samsung 23 L Solo Microwave Oven", "price": 8500},
+              {"model": "Samsung 32 L Grill Microwave Oven", "price": 13500},
+              {"model": "Samsung 20 L Convection Microwave Oven", "price": 9000}
+            ]
+          },
+          {
+            "brand_name": "LG",
+            "models": [
+              {"model": "LG 28 L Convection Microwave Oven", "price": 12500},
+              {"model": "LG 20 L Solo Microwave Oven", "price": 7500},
+              {"model": "LG 30 L Grill Microwave Oven", "price": 13000},
+              {"model": "LG 25 L Convection Microwave Oven", "price": 10500}
+            ]
+          },
+          {
+            "brand_name": "Panasonic",
+            "models": [
+              {"model": "Panasonic 27 L Convection Microwave Oven", "price": 11500},
+              {"model": "Panasonic 20 L Solo Microwave Oven", "price": 8000},
+              {"model": "Panasonic 32 L Grill Microwave Oven", "price": 14000},
+              {"model": "Panasonic 25 L Convection Microwave Oven", "price": 9500}
+            ]
+          },
+          {
+            "brand_name": "Bajaj",
+            "models": [
+              {"model": "Bajaj 20 L Solo Microwave Oven", "price": 6500},
+              {"model": "Bajaj 25 L Convection Microwave Oven", "price": 10000},
+              {"model": "Bajaj 30 L Grill Microwave Oven", "price": 11000},
+              {"model": "Bajaj 23 L Convection Microwave Oven", "price": 9000}
+            ]
+          }
+        ]
+      },
+      {
+        "product_name": "Roti Maker",
+        "brands": [
+          {
+            "brand_name": "Prestige",
+            "models": [
+              {"model": "Prestige PRM 3.0 Roti Maker", "price": 2200},
+              {"model": "Prestige Roti Maker PRM 1.0", "price": 1800},
+              {"model": "Prestige PRM 4.0 Roti Maker", "price": 2500},
+              {"model": "Prestige PRM 5.0 Roti Maker", "price": 2700}
+            ]
+          },
+          {
+            "brand_name": "Bajaj",
+            "models": [
+              {"model": "Bajaj VACCO GO-EZZEE Roti Maker", "price": 2500},
+              {"model": "Bajaj Roti Maker with Cool Touch Handle", "price": 2300},
+              {"model": "Bajaj Roti Maker Supreme", "price": 2600},
+              {"model": "Bajaj Neo Roti Maker", "price": 2100}
+            ]
+          },
+          {
+            "brand_name": "Sunflame",
+            "models": [
+              {"model": "Sunflame RM1 Roti Maker", "price": 2000},
+              {"model": "Sunflame RM2 Roti Maker", "price": 2200},
+              {"model": "Sunflame Roti Maker Super Deluxe", "price": 2400},
+              {"model": "Sunflame Roti Maker Marvel", "price": 2300}
+            ]
+          },
+          {
+            "brand_name": "Jaipan",
+            "models": [
+              {"model": "Jaipan JPRM-901 Roti Maker", "price": 1800},
+              {"model": "Jaipan Tandoor Roti Maker", "price": 2000},
+              {"model": "Jaipan Jumbo Roti Maker", "price": 2100},
+              {"model": "Jaipan Chapati Maker", "price": 1900}
+            ]
+          },
+          {
+            "brand_name": "Pigeon",
+            "models": [
+              {"model": "Pigeon Roti Maker 1.0", "price": 1700},
+              {"model": "Pigeon Super Roti Maker", "price": 1900},
+              {"model": "Pigeon Electra Roti Maker", "price": 2000},
+              {"model": "Pigeon Classic Roti Maker", "price": 1800}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
